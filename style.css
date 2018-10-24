@@ -15,4 +15,9 @@
  .blue{
    background: blue;
  }
-
+.image img {
+    width: 90px;
+    height: 90px;
+    margin: auto;    
+    display: block;
+}
